@@ -7,6 +7,10 @@ I have captured one picture and analysed all marks of left hand right hand face 
 ##### Landmarks drawn detecting face, hands and body
 Below is an example frame of the capture
 ![image](https://github.com/Vignesh142/Sign-Detection-Using-Tensor-mediapipeline/assets/101886482/1e73c45e-bd33-4f34-9913-03e71b1febdf)
+#### Collecting training data
+Here, I have collected all the samples to test and train. For each sign I have collected 30 samples and for one sample video i have collected
+30 frames of images as one.
+![image](https://github.com/Vignesh142/Sign-Detection-Using-Tensor-mediapipeline/assets/101886482/a65212d4-5093-4114-9391-5c7628483a6e)
 
 #### Creating Neural Network for training data
 Later, I have collecting the multiple frame and made as a video.For training data , I have collected the multiple frames of video for the 3 
